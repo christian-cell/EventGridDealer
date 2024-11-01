@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>NetNinja.EvenGridDealer.Tests</PackageId>
+        <Version>1.0.4</Version>
+        <Authors>Christian García Martín</Authors>
+        <Description>EventGrid event publisher testing</Description>
+        <RepositoryUrl>https://github.com/christian-cell</RepositoryUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <IncludeBuildOutput>true</IncludeBuildOutput>
+    </PropertyGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNinja.EventGridDealer", "NetNinja.EventGridDealer\NetNinja.EventGridDealer.csproj", "{32553D5F-088B-4328-AF8E-A5D23F738298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetNinja.EventGridDealer.Tests", "NetNinja.EventGridDealer.Tests\NetNinja.EventGridDealer.Tests.csproj", "{AF3FC25E-E3BA-42E7-B142-14712E321E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32553D5F-088B-4328-AF8E-A5D23F738298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32553D5F-088B-4328-AF8E-A5D23F738298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32553D5F-088B-4328-AF8E-A5D23F738298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32553D5F-088B-4328-AF8E-A5D23F738298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3FC25E-E3BA-42E7-B142-14712E321E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3FC25E-E3BA-42E7-B142-14712E321E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3FC25E-E3BA-42E7-B142-14712E321E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3FC25E-E3BA-42E7-B142-14712E321E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
